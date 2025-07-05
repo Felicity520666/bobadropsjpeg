@@ -1,0 +1,10 @@
+body {
+    background-color: aliceblue;
+    text-align: center;
+    color :aquamarine;
+    font-family:'Courier New', Courier, monospace;
+}
+
+img {
+    border-radius:20px;
+}
